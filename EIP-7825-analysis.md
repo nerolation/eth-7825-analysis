@@ -1,4 +1,7 @@
-# EIP-7983 Technical Analysis
+# EIP-7983 Quick Report
+
+*The following represents a quick summary with empirical findings from analyzing a `2**24` transaction gas limit cap.*
+*Date: July, 2025*
 
 ## Dataset
 - **Period**: 6 months of Ethereum mainnet data
