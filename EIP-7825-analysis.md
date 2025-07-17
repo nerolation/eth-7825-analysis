@@ -18,7 +18,7 @@
 | Unique affected addresses | 4,601 |
 | Avg transactions per affected address | 21.0 |
 
-### Gas Analysis
+### Gas Analysis (of Affected)
 | Metric | Value |
 |--------|-------|
 | Average gas limit (affected txs) | 24,734,127 |
