@@ -44,15 +44,6 @@
 | Addresses with 1 transaction | 1,848 (40.2%) |
 | Addresses with >100 transactions | 197 (4.3%) |
 
-### Entity Classification (Top 50 Addresses)
-| Category | Count | Percentage |
-|----------|-------|------------|
-| Other/Unknown | 31 | 62.0% |
-| Batch Processor | 9 | 18.0% |
-| MEV Bot | 5 | 10.0% |
-| Contract Deployer | 3 | 6.0% |
-| Unknown | 2 | 4.0% |
-
 ## Cumulative Distribution Function
 
 ### Sample
